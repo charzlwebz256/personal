@@ -31,7 +31,7 @@ body {
     }
         
     .menu-bar ul li:hover{
-        background-color: gold;
+        background-color: black;
         border-radius: 30px;
     }
     .menu-bar ul li a{
@@ -39,8 +39,40 @@ body {
         color: #fff;
     }
     .menu-bar ul li a:hover{
-        color: black;
+        color: white;
     }
+    .container{
+        display: flex;
+        margin-top:100%;
+        width: 90%;
+        padding: 100px 10%;
+        color: #fff;
+        background-color: black;
+        padding-bottom: 45px;
+
+    }
+    .footer div{
+        text-align: center;
+    }
+    .con2{
+        margin-right: 65px;
+        margin-left: 65px;
+        padding: 10px;
+    }
+  .con3{
+        margin-right: 65px;
+        margin-left: 65px;
+        padding: 10px;
+    }
+    .con4{
+        margin-right: 65px;
+        margin-left: 65px;
+        padding: 10px;
+    }
+    .menu-bar .fa{
+        padding-right: 25px;
+    }
+
    
 
     
